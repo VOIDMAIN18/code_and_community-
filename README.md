@@ -32,16 +32,16 @@ Made with ❤️ by **voidmain**
 
 <div align="center">
 
-<img src="<img width="1918" height="838" alt="image" src="https://github.com/user-attachments/assets/10fc8857-fa54-46dd-9eb4-9dfb3a46b2b3" />
-" width="85%" alt="Home Feed">
+<img width="1918" height="838" alt="image" src="https://github.com/user-attachments/assets/b8243e8d-32d5-41de-80fe-722bb9c4512e" />
+
+<br><br>
+<img width="1917" height="858" alt="image" src="https://github.com/user-attachments/assets/ab9e2557-f199-4829-9ba1-b47d706e1b7f" />
+
 
 <br><br>
 
-<img src="./assets/profile.png" width="85%" alt="Profile Page">
 
-<br><br>
-
-<img src="./assets/code-mode.png" width="85%" alt="Code Mode">
+<img width="1918" height="882" alt="image" src="https://github.com/user-attachments/assets/f7db9086-5474-40b2-8c37-ca8629bca41b" />
 
 </div>
 
