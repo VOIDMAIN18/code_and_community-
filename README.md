@@ -32,7 +32,8 @@ Made with ❤️ by **voidmain**
 
 <div align="center">
 
-<img src="./assets/home.png" width="85%" alt="Home Feed">
+<img src="<img width="1918" height="838" alt="image" src="https://github.com/user-attachments/assets/10fc8857-fa54-46dd-9eb4-9dfb3a46b2b3" />
+" width="85%" alt="Home Feed">
 
 <br><br>
 
