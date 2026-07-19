@@ -1,4 +1,9 @@
-# 💻 CODE-AND-CONNECT
+<div align="center">
+
+# **💻 CODE-AND-CONNECT**
+
+</div>
+
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/96925ea8-d935-48cb-b842-4004fa7698f0" />
 
@@ -11,9 +16,7 @@
 
 <br>
 
-<p>
-  <img src="./assets/banner.png" alt="CODE-AND-CONNECT Banner" width="100%">
-</p>
+
 
 <br>
 
