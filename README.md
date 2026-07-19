@@ -1,48 +1,179 @@
 # 💻 CODE-AND-CONNECT
 
 <div align="center">
-  <h3>A Social Network Built Exclusively for Developers</h3>
-  <br>
-  
-  # [🚀 CLICK HERE FOR THE LIVE DEMO 🚀](https://your-live-link-here.com)
-  
-  <br>
+
+# CODE-AND-CONNECT
+
+### A Social Platform Built for Developers
+
+*A place where developers share ideas, code, projects, and connect with other programmers.*
+
+<br>
+
+<p>
+  <img src="./assets/banner.png" alt="CODE-AND-CONNECT Banner" width="100%">
+</p>
+
+<br>
+
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit_Website-0A84FF?style=for-the-badge)](https://your-live-link-here.com)
+
+**Built for the Vedam CodeSprint • Build Instagram Bootcamp**
+
+Made with ❤️ by **voidmain**
+
 </div>
 
 ---
 
-## 🌟 About the Project
+# 📸 Preview
 
-**CODE-AND-CONNECT** is a sleek, modern social media platform designed specifically for the developer community. Inspired by the layout and feel of X (Twitter), but tailored for code sharing and technical discussions. 
+> Replace these placeholders with screenshots of your project.
 
-This project was proudly created by **voidmain** (`cv16main@gmail.com`) and made for the **Vedam CodeSprint | Build Instagram Bootcamp competition**.
+<div align="center">
 
-## ✨ Key Features
+<img src="./assets/home.png" width="85%" alt="Home Feed">
 
-* **Terminal-Inspired Aesthetics**: A beautiful, dark-themed UI that feels right at home for any developer.
-* **Code Snippet Mode**: Toggle the `</>` Code Mode in the composer to automatically format your posts into syntax-highlighted code blocks.
-* **Dynamic Language Filtering**: Filter your feed instantly by clicking on programming languages (C++, Rust, Python, Web Dev, etc.) or checking your Following tab.
-* **Interactive Network**: View user profiles, follow other developers, and watch your feed adapt to show only the people you care about.
-* **Independent Scrolling**: Built with a responsive layout where sidebars remain sticky while the main feed scrolls independently, providing a seamless user experience.
-* **System Notifications**: Realistic platform notifications simulating interactions like follows, likes, and system deployment updates.
+<br><br>
 
-## 🛠️ Technology Stack
+<img src="./assets/profile.png" width="85%" alt="Profile Page">
 
-* **HTML5**: Semantic structure and layout.
-* **Vanilla CSS3**: Custom design system, Flexbox layouts, interactive hover states, and smooth scrollbar handling without relying on heavy frameworks.
-* **Vanilla JavaScript**: State management, DOM manipulation, modal handling, filtering logic, and interactive components.
-* **FontAwesome**: Scalable vector icons for a polished UI.
+<br><br>
 
-## 🚀 Getting Started
+<img src="./assets/code-mode.png" width="85%" alt="Code Mode">
 
-To run this project locally:
+</div>
 
-1. Clone this repository.
-2. Open `index.html` in any modern web browser.
-3. No build steps, no complex dependencies—just pure frontend magic.
+---
 
-## 📬 Contact
+# 🌟 About
 
-Created by **voidmain**  
-Email: [cv16main@gmail.com](mailto:cv16main@gmail.com)  
-Event: **Vedam CodeSprint | Build Instagram Bootcamp competition**
+**CODE-AND-CONNECT** is a modern social networking platform designed exclusively for developers.
+
+Unlike traditional social media, it focuses on programming, technical discussions, and showcasing projects in a clean terminal-inspired interface.
+
+The platform takes inspiration from **X (Twitter)** while introducing features specifically built for programmers, making it easier to share code, discover developers, and build a technical network.
+
+---
+
+# ✨ Features
+
+### 🖥️ Developer-Focused Design
+
+A clean dark interface inspired by modern terminals and code editors.
+
+### </> Code Mode
+
+Turn any post into a beautifully formatted code snippet with syntax highlighting.
+
+### 🔍 Language Filters
+
+Browse posts by programming language including:
+
+* C++
+* Rust
+* Python
+* JavaScript
+* Web Development
+* and more...
+
+### 👥 Follow Developers
+
+Create your own developer network and personalize your feed.
+
+### 📱 Responsive Layout
+
+Sticky sidebars, independent scrolling, and smooth navigation across screen sizes.
+
+### 🔔 Smart Notifications
+
+Realistic notifications for follows, likes, comments, and deployment updates.
+
+### ⚡ Lightweight
+
+No frameworks.
+No build tools.
+Just fast, clean frontend development.
+
+---
+
+# 🛠️ Built With
+
+| Technology           | Purpose                  |
+| -------------------- | ------------------------ |
+| HTML5                | Structure                |
+| CSS3                 | UI & Responsive Design   |
+| JavaScript (Vanilla) | Logic & State Management |
+| Font Awesome         | Icons                    |
+
+---
+
+# 🚀 Running Locally
+
+```bash
+git clone https://github.com/yourusername/code-and-connect.git
+
+cd code-and-connect
+```
+
+Simply open:
+
+```text
+index.html
+```
+
+in any modern browser.
+
+No installation.
+
+No dependencies.
+
+No build process.
+
+---
+
+# 📂 Project Structure
+
+```text
+📦 CODE-AND-CONNECT
+│
+├── index.html
+├── style.css
+├── script.js
+│
+├── assets/
+│   ├── banner.png
+│   ├── home.png
+│   ├── profile.png
+│   └── code-mode.png
+│
+└── README.md
+```
+
+---
+
+# 🎯 Competition
+
+This project was developed for
+
+## Vedam CodeSprint
+
+### Build Instagram Bootcamp
+
+---
+
+# 👨‍💻 Creator
+
+**voidmain**
+
+📧 **Email:** [cv16main@gmail.com](mailto:cv16main@gmail.com)
+
+---
+
+<div align="center">
+
+### ⭐ If you enjoyed this project, consider giving it a star!
+
+Made with HTML, CSS & JavaScript.
+
+</div>
