@@ -20,7 +20,7 @@
 
 <br>
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit_Website-0A84FF?style=for-the-badge)](https://your-live-link-here.com)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit_Website-0A84FF?style=for-the-badge)](https://code-and-community.vercel.app/)
 
 **Built for the Vedam CodeSprint • Build Instagram Bootcamp**
 
