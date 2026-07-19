@@ -1,6 +1,7 @@
 # 💻 CODE-AND-CONNECT
 
-<div align="center">
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/96925ea8-d935-48cb-b842-4004fa7698f0" />
+
 
 # CODE-AND-CONNECT
 
